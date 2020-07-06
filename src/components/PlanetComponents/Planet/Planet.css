@@ -1,0 +1,7 @@
+.planetItem{
+    cursor: pointer;
+}
+.planetImage{
+    max-height:  100px;
+    width: auto;
+}
